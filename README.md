@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anmolvm94
-- 👀 I’m interested in AI and ML; I love technology
-- 🌱 I’m currently learning how to code on Python
-- 💞️ I’m looking to work and collaborate on AI projects with real-world applications  - particularly interested in AI assistants for productivity  
+- 👀 I’m AI-curious & a techno-optimist
+- 💞️ I’m looking to work and collaborate on AI projects with real-world applications  - particularly interested in AI X Investing
 - 📫 How to reach me anmolverma387@gmail.com 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love hiking, camping, scuba diving, and skiing. Being in nature and exploring the wild and wonderful outdoors is one of my most favorite things in the world.    
